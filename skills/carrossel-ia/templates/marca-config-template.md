@@ -1,4 +1,4 @@
-# Configuração do Cliente
+# Configuração da Marca
 
 ## Marca
 
@@ -40,4 +40,3 @@
 - Temas fortes:
 - Temas proibidos:
 - Feedbacks acumulados:
-

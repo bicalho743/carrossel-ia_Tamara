@@ -2,7 +2,7 @@
 name: carrossel-ia
 description: >
   Cria carrosséis, infográficos e JSONs de imagens para GPT Image 2 a partir de briefing,
-  referências visuais, configuração de cliente e feedback. Use sempre que o usuário pedir
+  referências visuais, configuração da marca e feedback. Use sempre que o usuário pedir
   carrossel com IA, infográfico com IA, JSON de imagem, imagem power, GPT Image 2,
   peças visuais em lote, ou transformar conteúdo e referências em prompts/JSONs estruturados.
 ---
@@ -13,15 +13,15 @@ Use esta skill para gerar arquivos `.md` com Briefing + JSONs de imagens. A saí
 
 ## Antes de criar
 
-1. Identifique o cliente.
-2. Leia `clientes/[cliente]/config.md`.
+1. Leia `config/marca.md`.
+2. Identifique tema, plataforma, formato e quantidade.
 3. Leia a pasta de referências indicada pelo usuário.
 4. Se o usuário não indicar referência, procure em:
-   - `clientes/[cliente]/referencias/infograficos/`
-   - `clientes/[cliente]/referencias/carrosseis/`
-   - `clientes/[cliente]/referencias/exemplos-aprovados/`
+   - `referencias/infograficos/`
+   - `referencias/carrosseis/`
+   - `referencias/exemplos-aprovados/`
 5. Defina plataforma, formato, quantidade e tema.
-6. Se algum dado essencial faltar, use o padrão do cliente e marque a suposição no briefing.
+6. Se algum dado essencial faltar, use o padrão da marca em `config/marca.md` e marque a suposição no briefing.
 
 ## Saída obrigatória
 
@@ -32,7 +32,7 @@ Sempre gerar um `.md` com esta ordem:
 
 ## Briefing
 
-- Cliente:
+- Marca:
 - Tema:
 - Data de criação:
 - Mês:
@@ -83,4 +83,4 @@ Sempre gerar um `.md` com esta ordem:
 - Como ler referências: `references/workflow-referencias.md`
 - Guia visual: `references/guia-visual.md`
 - Template de saída: `templates/carrossel-template.md`
-- Template de cliente: `templates/cliente-config-template.md`
+- Template de marca: `templates/marca-config-template.md`

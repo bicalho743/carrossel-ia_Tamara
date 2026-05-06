@@ -4,8 +4,8 @@ Este repositório empacota um sistema de produção de carrosséis e imagens com
 
 ## Princípios
 
-- Sempre ler `clientes/[cliente]/config.md` antes de criar qualquer peça.
-- Sempre olhar as referências disponíveis em `clientes/[cliente]/referencias/`.
+- Sempre ler `config/marca.md` antes de criar qualquer peça.
+- Sempre olhar as referências disponíveis em `referencias/`.
 - Tratar referências como estrutura, estética, tom ou performance. Não copiar conteúdo literal salvo quando o usuário pedir explicitamente.
 - Gerar a saída em `.md`, com Briefing + JSONs de imagens.
 - Cada imagem deve ter um JSON separado. Não usar um array único para agrupar todas as imagens.
@@ -24,8 +24,7 @@ Este repositório empacota um sistema de produção de carrosséis e imagens com
 
 ## Caminhos
 
-- Configuração do cliente: `clientes/[cliente]/config.md`
-- Referências: `clientes/[cliente]/referencias/`
-- Saídas: `clientes/[cliente]/carrosseis/[semana]/`
+- Configuração da marca: `config/marca.md`
+- Referências: `referencias/`
+- Saídas: `saidas/[semana]/`
 - Skill: `skills/carrossel-ia/SKILL.md`
-

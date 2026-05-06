@@ -29,8 +29,7 @@
 
 ## Regras de marca
 
-- Usar paleta do cliente em `config.md`.
+- Usar paleta da marca em `config/marca.md`.
 - Usar assinatura padrão.
 - Respeitar posição de assinatura.
-- Não inventar logo se o cliente não forneceu.
-
+- Não inventar logo se a marca não tiver fornecido.

@@ -3,14 +3,14 @@
 ## Como escolher referências
 
 1. Leia o pedido do usuário: tema, plataforma, quantidade e estilo.
-2. Abra `clientes/[cliente]/config.md`.
+2. Abra `config/marca.md`.
 3. Liste referências na pasta indicada pelo usuário.
 4. Se não houver pasta indicada, procure nesta ordem:
    - `referencias/exemplos-aprovados/`
    - `referencias/infograficos/`
    - `referencias/carrosseis/`
    - `referencias/identidade-visual/`
-   - `referencias/prints-cliente/`
+   - `referencias/prints/`
 5. Para cada imagem, escolha uma referência de estrutura e documente em:
    - `referencias.estrutura`
    - `referencias.uso_estrutura`
@@ -32,7 +32,7 @@ Não use a referência para:
 
 - copiar headline;
 - copiar copy;
-- copiar marca de outro cliente;
+- copiar marca de terceiros;
 - copiar imagem humana específica;
 - copiar logo sem autorização.
 
@@ -51,4 +51,3 @@ Sempre fechar o arquivo com:
 - Imagem 1 = Infograficos/30.jpeg
 - Imagem 2 = Carrosseis/exemplo-02.png
 ```
-

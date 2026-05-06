@@ -2,7 +2,7 @@
 
 ## Briefing
 
-- Cliente: Cliente Exemplo
+- Marca: Minha Marca
 - Tema: Sistema de criação de imagens com IA
 - Data de criação: 2026-05-06
 - Mês: maio
@@ -11,7 +11,7 @@
 - Formato: infográfico 4:5
 - Quantidade: 2 imagens
 - Estilo: infográfico premium, técnico e direto
-- Referências: pasta `clientes/exemplo-cliente/referencias/infograficos`
+- Referências: pasta `referencias/infograficos`
 
 ## JSONs
 
@@ -24,7 +24,7 @@
     "template": "Infográfico 30 — fluxo de proposta de valor",
     "formato": "4:5",
     "dimensions": "1080x1350",
-    "cliente": "Cliente Exemplo",
+    "marca": "Minha Marca",
     "semana": 1,
     "dia": "2026-05-06",
     "data_criacao": "2026-05-06",
@@ -38,7 +38,7 @@
     "instrucao_referencia": "Copiar a estrutura visual da referência 30.jpeg, não o conteúdo. Adaptar para um fluxo operacional de criação de imagem com IA."
   },
   "branding": {
-    "assinatura": "Cliente Exemplo",
+    "assinatura": "Minha Marca",
     "assinatura_posicao": "top_left",
     "palette": {
       "background": "#0F0F0F",
@@ -74,7 +74,7 @@
     ],
     "centro": "O agente organiza tudo antes de gerar a imagem",
     "saida": "Imagem pronta para testar no conteúdo",
-    "footer": "Cliente Exemplo"
+    "footer": "Minha Marca"
   }
 }
 ```
@@ -88,7 +88,7 @@
     "template": "Infográfico 13 — matriz comparativa",
     "formato": "4:5",
     "dimensions": "1080x1350",
-    "cliente": "Cliente Exemplo",
+    "marca": "Minha Marca",
     "semana": 1,
     "dia": "2026-05-06",
     "data_criacao": "2026-05-06",
@@ -102,7 +102,7 @@
     "instrucao_referencia": "Copiar a lógica visual da referência 13.jpeg, transformando em comparação entre prompt solto e sistema estruturado."
   },
   "branding": {
-    "assinatura": "Cliente Exemplo",
+    "assinatura": "Minha Marca",
     "assinatura_posicao": "top_left",
     "palette": {
       "background": "#FFFFFF",
@@ -141,7 +141,7 @@
       }
     ],
     "conclusao": "A diferença não é só gerar imagem. É criar um processo que aprende.",
-    "footer": "Cliente Exemplo"
+    "footer": "Minha Marca"
   }
 }
 ```
@@ -155,4 +155,3 @@
 
 - Imagem 1 = Infograficos/30.jpeg
 - Imagem 2 = Infograficos/13.jpeg
-

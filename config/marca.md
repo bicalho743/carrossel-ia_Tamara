@@ -1,12 +1,12 @@
-# Configuração do Cliente — Exemplo
+# Configuração da Marca
 
 ## Marca
 
-- Nome: Cliente Exemplo
+- Nome: Minha Marca
 - Segmento: Educação / Serviços
 - Oferta: Conteúdo visual com IA
 - Público: Profissionais e decisores
-- Assinatura: Cliente Exemplo
+- Assinatura: Minha Marca
 - Assinatura padrão: top_left
 
 ## Tom de voz
@@ -39,4 +39,3 @@
 - Temas fortes: processo, IA, produtividade, sistemas
 - Temas proibidos: promessas irreais
 - Feedbacks acumulados: usar referências como estrutura, não como cópia literal
-

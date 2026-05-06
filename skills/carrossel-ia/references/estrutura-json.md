@@ -11,7 +11,7 @@ O arquivo final é um `.md`, não um `.json` isolado. Ele contém briefing e mú
     "template": "[nome da referência ou estrutura]",
     "formato": "4:5",
     "dimensions": "1080x1350",
-    "cliente": "[cliente]",
+    "marca": "[nome da marca]",
     "semana": 1,
     "dia": "YYYY-MM-DD",
     "data_criacao": "YYYY-MM-DD",
@@ -61,4 +61,3 @@ Use campos específicos conforme a estrutura:
 - Não misturar várias imagens em um único JSON.
 - Não usar texto técnico de renderização como conteúdo visível.
 - Não copiar conteúdo literal da referência visual.
-

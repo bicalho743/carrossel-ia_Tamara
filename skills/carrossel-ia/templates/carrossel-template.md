@@ -2,7 +2,7 @@
 
 ## Briefing
 
-- Cliente:
+- Marca:
 - Tema:
 - Data de criação:
 - Mês:
@@ -24,7 +24,7 @@
     "template": "[template ou referência]",
     "formato": "4:5",
     "dimensions": "1080x1350",
-    "cliente": "[cliente]",
+    "marca": "[nome da marca]",
     "semana": 1,
     "dia": "YYYY-MM-DD",
     "data_criacao": "YYYY-MM-DD",
@@ -65,4 +65,3 @@
 ## Sumario de Estruturas Visuais
 
 - Imagem 1 =
-

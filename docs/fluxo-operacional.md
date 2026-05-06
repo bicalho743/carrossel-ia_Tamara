@@ -4,7 +4,6 @@
 
 O usuário informa:
 
-- cliente;
 - tema;
 - quantidade de imagens;
 - plataforma;
@@ -16,7 +15,7 @@ O usuário informa:
 
 O agente lê:
 
-- `clientes/[cliente]/config.md`;
+- `config/marca.md`;
 - referências visuais indicadas;
 - exemplos aprovados, quando houver.
 
@@ -48,4 +47,3 @@ Antes de finalizar:
 - conferir assinatura e paleta;
 - conferir se referências foram usadas como estrutura, não cópia;
 - conferir se sumários finais batem com os JSONs.
-
