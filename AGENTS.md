@@ -1,7 +1,7 @@
-# agents.md — Carrossel IA · Tâmara Cavalcante
+# AGENTS.md — Carrossel IA · Tâmara Cavalcante
 
 > Arquivo de instrução do agente. Carregue este arquivo antes de qualquer tarefa neste repositório.
-> Vale para qualquer agente de IA (Claude Code, Antigravity, Gemini, etc.). Em caso de conflito entre arquivos, a ordem de autoridade é: este `agents.md` → `config/marca.md` → `skills/carrossel-ia/SKILL.md` → referências.
+> Vale para qualquer agente de IA (Claude Code, Antigravity, Gemini, etc.). Em caso de conflito entre arquivos, a ordem de autoridade é: este `AGENTS.md` → `config/marca.md` → `skills/carrossel-ia/SKILL.md` → referências.
 
 ---
 
@@ -105,7 +105,7 @@ Se qualquer item falhar, corrija antes de entregar.
 > Esta seção descreve a camada que ainda **não** existe no repositório. Documentada aqui para orientar a construção.
 
 O método de 3 camadas separa:
-- **Tier 1 — Orientação:** este `agents.md` + a skill (o que fazer e como).
+- **Tier 1 — Orientação:** este `AGENTS.md` + a skill (o que fazer e como).
 - **Tier 2 — Conteúdo:** o agente gera o `.md` com Briefing + JSONs (probabilístico).
 - **Tier 3 — Execução:** scripts Python determinísticos em `execution/` que leem o `.md`, enviam cada JSON para uma API de geração de imagem e salvam os arquivos. Credenciais e tokens em `.env` (nunca versionados).
 
