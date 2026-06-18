@@ -97,6 +97,8 @@ Se qualquer item falhar, corrija antes de entregar.
 - Referências de apoio: `skills/carrossel-ia/references/` (`guia-visual.md`, `estrutura-json.md`, `workflow-referencias.md`)
 - Banco de referências visuais: `referencias/` (`carrosseis/`, `infograficos/`, `exemplos-aprovados/`)
 - Saídas: `saidas/[semana]/`
+- Skill — Matriz de Conteúdo: `skills/content-matrix/SKILL.md`
+- Matriz de referência (40 ideias): `examples/matriz-tamara.md`
 
 ---
 
@@ -121,3 +123,4 @@ Enquanto `execution/` não existe, o passo "JSON → imagem" é manual: o usuár
 - Escrever hex/fontes/coordenadas como texto visível do slide.
 - Usar tom de coach, urgência, emojis ou "antes/depois de caos extremo".
 - Gerar imagens de avatar ou inventar fotos da Tâmara.
+
